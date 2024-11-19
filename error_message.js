@@ -1,9 +1,6 @@
 // init p5
 p5 = new P5()
 
-// as in setup - static
-p5.rect(300, 100, 100, 100)
-
 // you can then draw
 p5.draw = () => {
 
