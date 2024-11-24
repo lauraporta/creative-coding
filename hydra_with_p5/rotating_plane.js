@@ -1,3 +1,5 @@
+//  Currently not working on Atom
+
 // init p5
 p5 = new P5({mode: 'WEBGL'})
   
@@ -11,3 +13,9 @@ p5.draw = () => {
   p5.plane(500); // increase the size for visibility
   p5.pop();
 }
+
+// To use P5 as an input to hydra, simply use the canvas as a source:
+s0.init({src: p5.canvas})
+
+// Then render the canvas
+src(s0).out()

@@ -1,3 +1,5 @@
+//  Currently not working on Atom
+
 // init p5
 p5 = new P5()
 
@@ -47,3 +49,9 @@ p5.draw = () => {
   p5.textSize(12);
   p5.text("OK", x + 170, y + 85);
 }
+
+// To use P5 as an input to hydra, simply use the canvas as a source:
+s0.init({src: p5.canvas})
+
+// Then render the canvas
+src(s0).out()
