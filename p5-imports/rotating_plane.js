@@ -1,8 +1,6 @@
 // init p5
 p5 = new P5({mode: 'WEBGL'})
   
-// as in setup - static
-
 // you can then draw
 p5.draw = () => {
   p5.push();
