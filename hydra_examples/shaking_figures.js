@@ -1,5 +1,3 @@
-//  Currently not working on Atom
-
 osc(1, 1, 5).blend(noise(3)).modulate(
   shape([3, 4, 5], 0.5)
   .rotate(() => a.fft[0] * 10, 0.5)

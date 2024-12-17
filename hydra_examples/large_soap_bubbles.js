@@ -1,6 +1,4 @@
 src(s0).modulate(osc(3, 1, 3)).out(o1)
-
-
 src(o0).modulate(
   noise(() => a.fft[0] * 2)
 )
