@@ -1,5 +1,4 @@
-let tan = () => Math.tan(time / 10)
-voronoi(tan,0)
+voronoi(Math.tan(time / 10),0)
   .diff(
   	src(o0)
   	.scale(0.9)
