@@ -1,4 +1,4 @@
-s0.initImage("file:///Users/laura/source/github/lauraporta/hydra-p5/images/lake.jpeg")
+s0.initCam()
 edgeDetector = (img) => {
   return src(img)
     .diff(src(img).rotate(0.01))
