@@ -1,5 +1,15 @@
-# Things with hydra and p5
+# Live Coding Scripts
 
-Collection of scripts made with hydra video synth library and p5.js, to be used in Atom editor with the [hydra-atom](https://github.com/hydra-synth/atom-hydra) plugin, or pasted in the [hydra editor](https://hydra.ojack.xyz/).
+This repository contains a collection of creative coding scripts that I have written. The scripts are primarily in JavaScript, using [Hydra](https://hydra.ojack.xyz/) and [p5.js](https://p5js.org/). I use these as references for my live coding performances.
 
 ![hydra-2024-12-17-23 37 55 (1)](https://github.com/user-attachments/assets/a6a16822-37d1-4310-bded-fe550d6aae9f)
+
+
+## Running the Scripts
+
+- The Hydra scripts can be run locally using [Atom](https://atom.io/) with the `atom-hydra` plugin or directly in the [Hydra online editor](https://hydra.ojack.xyz/).
+- The syntax used in this repository is slightly condensed, as `atom-hydra` does not handle empty lines well.
+- p5.js scripts have been adapted to a syntax compatible with Hydra.
+
+## Repository Style
+The structure and organization of this repository are inspired by shader collections for Hydra.
