@@ -20,3 +20,6 @@
 
 ## to_painting
 ![to_painting](../example_pics/to_painting.png)
+
+## little_guy
+![little_guy](../example_pics/little_guy.png)
