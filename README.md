@@ -1,4 +1,4 @@
-# Live Coding Scripts
+# Creative Coding Scripts
 
 This repository contains a collection of creative coding scripts that I have written. The scripts are primarily in JavaScript, using [Hydra](https://hydra.ojack.xyz/), [p5.js](https://p5js.org/) and a few in three.js and Python. The scripts are organized into folders based on the libraries used. I use these as references for my live coding performances.
 
