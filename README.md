@@ -10,7 +10,7 @@ This repository contains a collection of creative coding scripts that I have wri
 - The Hydra scripts can be run locally using [Atom](https://atom.io/) with the `atom-hydra` plugin or directly in the [Hydra online editor](https://hydra.ojack.xyz/).
 - The syntax used in this repository is slightly condensed, as `atom-hydra` does not handle empty lines well.
 - p5.js scripts have been adapted to a syntax compatible with Hydra.
-- python scripts migth setting up a virtual environment and installing the required packages. You can do this by installing the packages listed in the requirements file.
+- python scripts migth require setting up a virtual environment and installing the required packages. You can do this by installing the packages listed in the requirements file.
 
 ## Repository Style
 The structure and organization of this repository are inspired by shader collections for Hydra.
