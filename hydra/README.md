@@ -23,3 +23,9 @@
 
 ## little_guy
 ![little_guy](../example_pics/little_guy.png)
+
+## butterfly_or_skull
+![butterfly_or_skull](../example_pics/butterfly_or_skull.png)
+
+## eyes
+![eyes](../example_pics/eyes.png)
