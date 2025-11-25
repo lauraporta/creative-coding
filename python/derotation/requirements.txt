@@ -1,0 +1,5 @@
+matplotlib
+numpy
+sounddevice
+scipy
+derotation

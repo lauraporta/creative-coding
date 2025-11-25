@@ -1,5 +1,0 @@
-matplotlib
-numpy
-sounddevice
-scipy
-derotation @ git+https://github.com/neuroinformatics-unit/derotation.git
